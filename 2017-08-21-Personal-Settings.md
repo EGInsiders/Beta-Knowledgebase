@@ -28,3 +28,5 @@ You can change your account, email address, username, and cell phone number by c
 
 The last section on the My Settings page displays a list of options which you can enable or disable for your personal notifications. You can use this section to switch notifications on or off for personal notifications, dashboard notifications, path comments and reminders, and the path email reports.
 
+[Edit Google Doc](https://docs.google.com/document/d/1Tb8ThwBFs6l7UUS-2ifvyBz4gnNfcE3jHQiJXo-LOXk/edit?usp=sharing)
+
