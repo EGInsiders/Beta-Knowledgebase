@@ -4,9 +4,9 @@
 
 ## Coaches Getting Started
 
-* [Planning](Coaches Getting Started/Planning.md)
-* [About EduGuide](Coaches Getting Started/2017-09-12-About-EduGuide.md)
-* [A Year at a Glance](Coaches Getting Started/2017-09-12-A-Year-at-a-Glance.md)
+* [Planning](CoachesGettingStarted/Planning.md)
+* [About EduGuide](CoachesGettingStarted/About-EduGuide.md)
+* [A Year at a Glance](CoachesGettingStarted/A-Year-at-a-Glance.md)
 
 ## Personal Accounts
 
