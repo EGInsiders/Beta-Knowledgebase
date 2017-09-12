@@ -6,9 +6,10 @@ permalink: /a-year-at-a-glance/
 source-id: 1DGgPZ9fdcy-3d_sxmXNTbFBBtsxroldqwNgP5u13MK8
 published: true
 ---
-**A Year at a Glance**
 
-EduGuide's curriculum is spaced, spiraled and self-paced to for greater learning impacts (Son & Simon 2012).
+# **A Year at a Glance**
+
+EduGuide's curriculum is spaced, spiraled and self-paced to for greater learning impacts \(Son & Simon 2012\).
 
 * Spacing activities once a week for time to connect learning to life and make changes.
 
@@ -34,13 +35,13 @@ EduGuide's curriculum is focused on delivering experiences that reframe the way 
 
 * Written reflection on the past, present, and future in response to guided questions gives students insight into ways in which to process and react to events.
 
-Challenges are presented at the end of activities in the online Core Learning Path. 
+Challenges are presented at the end of activities in the online Core Learning Path.
 
 * Each week, learners are encouraged to put the Core Learning Skills into action.
 
 * Each challenge correlates with learning objective to create positive habits.
 
-* Practicing ways to confront challenges guides students in knowing how to best approach difficulties or obstacles. 
+* Practicing ways to confront challenges guides students in knowing how to best approach difficulties or obstacles.
 
 A common framework referencing specific learning skills, vocabulary and concepts enables communicate with learners and nurtures relationship building.
 
@@ -48,31 +49,31 @@ A common framework referencing specific learning skills, vocabulary and concepts
 
 * An online mentoring tool is used to guide students through open-ended questioning.
 
-**1st Quarter**
+## **1st Quarter**
 
 Transcendent Purpose. Students identify personal motivations to persevere in developing their potential, driven by how they want to contribute to their world.
 
 Mentor Training. Students develop a metacognitive perspective, thinking about how to help others learn and grow by practicing on Quinn, whom they imagine as their younger self.
 
-Growth Mindset. Students learn how the brain grows through challenges and develop self-talk skills to reframe their mindset for growth when they face obstacles or setbacks. 
+Growth Mindset. Students learn how the brain grows through challenges and develop self-talk skills to reframe their mindset for growth when they face obstacles or setbacks.
 
-**2nd Quarter**
+## **2nd Quarter**
 
-Smarter Learning. Students identify and practice key strategies for accelerating their learning and growth, even when a subject is hard. 
+Smarter Learning. Students identify and practice key strategies for accelerating their learning and growth, even when a subject is hard.
 
-Stress Management. Students practice tactics to control stress that interferes with learning. 
+Stress Management. Students practice tactics to control stress that interferes with learning.
 
-Social Persistence. Students gain confidence to persevere by learning that it's normal to go through periods of feeling like an outsider and a failure, but it is also normal for students to improve over time with persistence. 
+Social Persistence. Students gain confidence to persevere by learning that it's normal to go through periods of feeling like an outsider and a failure, but it is also normal for students to improve over time with persistence.
 
-**3rd Quarter **
+## **3rd Quarter **
 
 Help-Seeking. Students learn to proactively seek the resources around them to tackle challenges.
 
-Question Framing. Students practice reframing questions to open more doors to learning. 
+Question Framing. Students practice reframing questions to open more doors to learning.
 
-Gratitude. Students learn ways to stay positive and growing even when they face negative events. 
+Gratitude. Students learn ways to stay positive and growing even when they face negative events.
 
-**4th Quarter  **
+## **4th Quarter  **
 
 Self-Control. Students practice developing their willpower to improve achievement.
 
