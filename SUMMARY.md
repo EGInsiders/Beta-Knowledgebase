@@ -2,6 +2,10 @@
 
 * [Introduction](README.md)
 
+## Coaches Getting Started
+
+* [Planning](Coaches Getting Started/2017-09-12-Planning.md)
+* [A Year at a Glance](Coaches Getting Started/2017-09-12-A-Year-at-a-Glance.md)
 ## Personal Accounts
 
 * [2017-08-21-Personal-Settings.md](2017-08-21-Personal-Settings.md)
