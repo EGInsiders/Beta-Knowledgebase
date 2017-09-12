@@ -4,7 +4,7 @@
 
 ## Coaches Getting Started
 
-* [Planning](Coaches Getting Started/2017-09-12-Planning.md)
+* [Planning](Coaches Getting Started/Planning.md)
 * [About EduGuide](Coaches Getting Started/2017-09-12-About-EduGuide.md)
 * [A Year at a Glance](Coaches Getting Started/2017-09-12-A-Year-at-a-Glance.md)
 
