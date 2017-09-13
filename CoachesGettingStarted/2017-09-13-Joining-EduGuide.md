@@ -28,3 +28,5 @@ Always use this address to log back in the next time.
 
  ![image alt text]({{ site.url }}/public/StjIAf7HD7bgI7WbFmO4Ag_img_2.png)
 
+[Edit Google Doc](https://docs.google.com/document/d/1-oPJX-oQiG5ZsiRmb9rbXWn9_tEA-6TP-TP5FngN15g/edit?usp=sharing)
+
