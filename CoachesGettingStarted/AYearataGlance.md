@@ -2,7 +2,7 @@
 title: A Year at a Glance
 layout: post
 author: eduguidepfl
-permalink: /
+permalink: /AYearataGlance.md
 source-id: 1DGgPZ9fdcy-3d_sxmXNTbFBBtsxroldqwNgP5u13MK8
 published: true
 ---
