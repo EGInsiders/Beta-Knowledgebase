@@ -6,7 +6,7 @@ permalink: /
 source-id: 1DGgPZ9fdcy-3d_sxmXNTbFBBtsxroldqwNgP5u13MK8
 published: true
 ---
-**A Year at a Glance**
+# A Year at a Glance
 
 EduGuide's curriculum is spaced, spiraled and self-paced to for greater learning impacts (Son & Simon 2012).
 
