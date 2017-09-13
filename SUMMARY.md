@@ -5,7 +5,6 @@
 ## Coaches Getting Started
 
 * [About EduGuide](Coaches Getting Started/AboutEduGuide.md)
-* [A Year at a Glance](CoachesGettingStarted/AYearataGlance.md)
 
 ## Personal Accounts
 
