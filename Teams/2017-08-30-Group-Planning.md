@@ -42,21 +42,13 @@ If Auto Groups are turned off, then groups need to be created manually.
 
 2. or can be added to a group by an Admin Coach. 
 
-## Following Groups
-
-Coaches can "Follow" groups from the Groups page or from a group's edit page. When you follow a group,
-
-1. it will begin to appear on the group filter menu in the Metrics page. 
-
-2. you will also receive a daily path progress report for that group. 
-
 ## Using Custom Groups to create team structure
 
 There is no limit to the number of groups that can be created within a team, or on the number of groups that a student can belong to. So, coaches can use groups to organize their students based on categories such as building, graduation year, subject, or class section. Students can be added or removed from a group from either the Member page, or a group's edit page. Students can be associated with all of these groups. This is what provides layers of online mentoring support as they complete their Core Learning Path.
 
 As you plan the groups needed for your team, it is important to take into consideration the needs of your faculty, their preferences, and how you will want to track the students who are on your team. A team which represents an entire institution may rely on groups to break up students into several categories, where as a team that represents a few classes may only need to separate their students based on an instructor's class lists.
 
-If you have questions about the best way to use groups to organize your team, please contact Nicole Chickering, EduGuide Results Coach, at nicole@eduguide.org.
+If you have questions about the best way to use groups to organize your team, please contact our helpdesk at [web@eduguide.org](mailto:web@eduguide.org).
 
 [Edit Google Doc](https://docs.google.com/document/d/1-ISeCa40WdWCcLdtM00NPKG-XwlqprqL8Rw8zgEVyno/edit?usp=sharing)
 
