@@ -24,5 +24,5 @@ The invite page for your group will display the group's join code inside the "In
 
 3. On the group's invite page, the join code will be listed inside the box labeled "In person." Write down the code or copy it to your clipboard by clicking “Copy Code.”
 
-[Edit Google Doc](https://docs.google.com/document/d/1J_aSkcib7vv2VoZPETPi5iJySmK5pe0T0aQziREd9BE/edit?usp=sharing)
+[Edit Google Doc](https://docs.google.com/document/d/1J_aSkcib7vv2VoZPETPi5iJySmK5pe0T0aQziREd9BE/edit?usp=sharing) | [Freshdesk](http://eduguide.freshdesk.com/support/solutions/articles/3000070532-locating-your-group-s-join-code) |
 
