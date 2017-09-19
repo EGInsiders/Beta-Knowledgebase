@@ -13,11 +13,16 @@
 
 ## Teams
 
-* [Metrics Tools](Teams/2017-08-17-Metrics-Tools.md)
+
 * [Team Settings and Onboarding Updates](Teams/2017-08-17-Team-Settings-and-Onboarding-Updates.md)
 * [Teams/InvitingCoachesandMemberstoyourteam.md](Teams/InvitingCoachesandMemberstoyourteam.md)
-* [Teams/Requesting-an-IT-Test.md](Teams/Requesting-an-IT-Test.md)
+* [Requesting an IT test](Teams/Requesting-an-IT-Test.md)
+
+* Groups
 * [Locating Your Group's Join Code](Teams/2017-09-18-Locating-your-group’s-join-code.md)
+* [Group Planning](Teams/2017-08-30-Group-Planning.md)
+* [Metrics Tools](Teams/2017-08-17-Metrics-Tools.md)
+
 
 ## Paths
 

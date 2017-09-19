@@ -22,7 +22,7 @@ There may be some circumstances when coaches choose not to use the Auto Groups f
 
 ## Following a Group
 
-![image alt text]({{ site.url }}/public/iqimVhjT43ixiI6xBLAyw_img_0.png)
+![image alt text](/public/iqimVhjT43ixiI6xBLAyw_img_0.png)
 
 Coaches can follow a group by clicking on the "Follow" link in the group's edit page. Groups you follow will appear in the list of filters on the Metrics page. You will also receive daily and weekly reports on the students who belong to the groups that you follow.
 
