@@ -12,9 +12,9 @@ By default, groups are used to associate incoming students with their instructor
 
 ## Auto Groups
 
-"Auto Groups" is a feature which will automatically create a new group for lead coaches as they join the team. When Auto Groups is turned on, the system will first create a new group reserved for each person who you invite to join the team as a lead coach. Initially, the names for the automatically generated groups will contain a pending coach's email address but after the coach joins the site their name will be auto populated into the group’s title.
+"Auto Groups" is a feature which will automatically create a new group for lead coaches as they join the team. When Auto Groups is turned on, the system will first create a new group reserved for each person who you invite to join the team as a lead coach. Initially, the names for the automatically generated groups will contain a pending coach's email address but after the coach joins the site their name will be auto populated into the group’s title. The coach can update their group name to display something other than their name (class title, grade, etc.).
 
-As lead coaches join the team they will become a follower and owner of the group which was created for them.
+As lead coaches join the team they will automatically become a follower and owner of the group which was created for them.
 
 The purpose of Auto Groups is to simplify the process of creating groups and then adding students to the team. When the feature is enabled, lead coaches only need to join the team and then share the join code for their already created group with students.
 
@@ -22,13 +22,13 @@ There may be some circumstances when coaches choose not to use the Auto Groups f
 
 ## Following a Group
 
-![image alt text](/public/iqimVhjT43ixiI6xBLAyw_img_0.png)
+![image alt text]({{ site.url }}/public/iqimVhjT43ixiI6xBLAyw_img_0.png)
 
 Coaches can follow a group by clicking on the "Follow" link in the group's edit page. Groups you follow will appear in the list of filters on the Metrics page. You will also receive daily and weekly reports on the students who belong to the groups that you follow.
 
-When the Auto Groups feature is turned on, Lead Coaches are automatically added to the automatically generated group as a followers.
+When the Auto Groups feature is turned on, Lead Coaches are automatically added to the automatically generated group as a follower.
 
-Admin coaches can also add coaches to a group as followers from either the Groups page, or from the edit screen for a specific group.
+Admin Coaches can also add coaches to a group as followers from either the Groups page, or from the edit screen for a specific group.
 
 ## Group Ownership
 
@@ -38,9 +38,11 @@ If Auto Groups was turned on, then a new group would have been created for each 
 
 If Auto Groups are turned off, then groups need to be created manually.
 
-1. Coaches who join a team which has Auto Groups turned off can follow a group from the Groups page if they choose, 
+1. Coaches who join a team which has Auto Groups turned off can:
 
-2. or can be added to a group by an Admin Coach. 
+    1. follow a group from the Groups page if they choose.
+
+    2. be added to a group by an Admin Coach. 
 
 ## Using Custom Groups to create team structure
 
