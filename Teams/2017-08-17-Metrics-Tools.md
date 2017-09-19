@@ -6,21 +6,21 @@ permalink: /metrics-tools/
 source-id: 1j0K9p1QDYCX5zMxFJeJehaAbomTCQDPw8wYCqz4eEeg
 published: true
 ---
-Metrics Tools
+# Metrics Tools
 
-# What is metrics?
+## What is metrics?
 
 Metrics is the feature on the site which coaches can use to track their students' progress in the path. They can view a summary of student progress on the main metrics page, filter the information based on recency or group membership, and zoom in on a specific student in order to view the comments they posted inside their personal path. While zoomed in, coaches can also respond back to that specific student.
 
-# How do I navigate to the Metrics tool?
+## How do I navigate to the Metrics tool?
 
-![image alt text]({{ site.url }}/public/Nq0q9DwOkEWqkOUtzEfKEA_img_0.png)
+![image alt text](/public/Nq0q9DwOkEWqkOUtzEfKEA_img_0.png)
 
-![image alt text]({{ site.url }}/public/Nq0q9DwOkEWqkOUtzEfKEA_img_1.png)
+![image alt text](/public/Nq0q9DwOkEWqkOUtzEfKEA_img_1.png)
 
 You can launch the metrics tools by clicking on "Metrics" in the main navigation menu towards the top of the page next to the EduGuide logo. A “Metrics” link is also listed in the side menu when you are viewing the member, coaches, group, or metrics page.
 
-# How do I filter the Metrics Page?
+## How do I filter the Metrics Page?
 
 You can use the filter controls towards the top of the Metrics page to adjust the data that is listed there. Right about the list showing students' progress there are four filtering controls: Sorting, Recency, Groups, and Keyword search.
 
