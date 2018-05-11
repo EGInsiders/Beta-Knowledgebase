@@ -29,7 +29,7 @@
 
 ## Coaching Students
 
-* [Creating and Managing Highlights](2018-05-11-Creating-and-Managing-Highlights.md)
+* [Creating and Managing Highlights](../docs/CoachingStudents/2018-05-11-Creating-and-Managing-Highlights.md)
 
 
 
