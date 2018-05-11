@@ -10,9 +10,9 @@ Highlights
 
 ![image alt text]({{ site.url }}/public/mOxpQPQVycwJkWrzQdeEg_img_0.png)
 
-* **Coach Tip:**** **This is a handy tool for you to use while reviewing students' comments on the Metrics page.
+* **Coach Tip:** This is a handy tool for you to use while reviewing students' comments on the Metrics page.
 
-* **Student Tip: **You can save a quote or copies of your comments to your list of highlights as you are completing activities in the path.
+* **Student Tip:** You can save a quote or copies of your comments to your list of highlights as you are completing activities in the path.
 
 While working on your Path, you may come across something interesting or important that you want to flag for future reference. You have the ability to save text by using the Highlights feature. You can save a comment, a quote, or an excerpt from your **Path**.
 
@@ -24,17 +24,17 @@ You can see your saved **Highlights** by viewing them on your personal **Highlig
 
 To access the **Highlights** tool, click on the main navigation menu in the top left hand corner of your screen.
 
-![image alt text]({{ site.url }}/public/mOxpQPQVycwJkWrzQdeEg_img_1.png)
+![image alt text](/public/mOxpQPQVycwJkWrzQdeEg_img_1.png)
 
 Click on the **Highlights** menu
 
-![image alt text]({{ site.url }}/public/mOxpQPQVycwJkWrzQdeEg_img_2.png)
+![image alt text](/public/mOxpQPQVycwJkWrzQdeEg_img_2.png)
 
 ## Creating and Saving a Highlight in Paths
 
 To add **Highlights** from your Path, simply select a block of text from an Activity and then click the **Highlight** button which will appear in the bottom left of the screen.
 
-![image alt text]({{ site.url }}/public/mOxpQPQVycwJkWrzQdeEg_img_3.png)
+![image alt text](/public/mOxpQPQVycwJkWrzQdeEg_img_3.png)
 
 You will notice the **Save Highlight **modal** **comes up automatically with your highlighted text in quotations. 
 
@@ -42,11 +42,11 @@ Select at least one checkbox, choosing the **Folder** where you want to save the
 
 Press **Save Highlight. **
 
-![image alt text]({{ site.url }}/public/mOxpQPQVycwJkWrzQdeEg_img_4.png)
+![image alt text](/public/mOxpQPQVycwJkWrzQdeEg_img_4.png)
 
 You can also add a new Folder by clicking on the word **Add**.
 
-![image alt text]({{ site.url }}/public/mOxpQPQVycwJkWrzQdeEg_img_5.png)
+![image alt text](/public/mOxpQPQVycwJkWrzQdeEg_img_5.png)
 
 Type in the name of the folder. Press Create.
 
@@ -58,11 +58,11 @@ Coaches can also create **Highlights** while they are reviewing and responding t
 
 As you are reviewing a students' responses to an activity, select the portion of the student’s comment that you would like to save as a highlight.
 
-![image alt text]({{ site.url }}/public/mOxpQPQVycwJkWrzQdeEg_img_6.png)
+![image alt text](/public/mOxpQPQVycwJkWrzQdeEg_img_6.png)
 
 Click the Highlight button in the **launcher bar** to load the highlight tool.
 
-![image alt text]({{ site.url }}/public/mOxpQPQVycwJkWrzQdeEg_img_7.jpg)
+![image alt text](/public/mOxpQPQVycwJkWrzQdeEg_img_7.jpg)
 
 Select at least one folder to add the highlight to.
 
